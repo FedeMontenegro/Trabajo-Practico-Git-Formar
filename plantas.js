@@ -4,3 +4,5 @@ let mascotas = {
     nombre : "Toto",
     edad : 7,
 }
+
+let plantas = ["Helecho", "Bambu", "lechuga"]
