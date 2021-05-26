@@ -6,3 +6,4 @@ let mascotas = {
 }
 
 let plantas = ["Helecho", "Bambu", "lechuga"]
+let plantas = "cactus"
